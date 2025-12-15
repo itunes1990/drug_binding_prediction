@@ -1,0 +1,18 @@
+# Drug-Target Binding Affinity Prediction - Dependencies
+
+# Core Data Science
+numpy>=1.20.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Drug Discovery (Optional - for real KIBA data)
+PyTDC>=0.4.0
+
+# Deep Learning (Optional - for advanced models)
+torch>=1.10.0
