@@ -183,7 +183,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub.
-
+Author: Anh Vu Tran.
+Email: steventran1290@gmail.com
 ---
 ⭐ If you find this project useful, please consider giving it a star!
+
