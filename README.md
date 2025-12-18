@@ -177,9 +177,6 @@ test_data = split['test']
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
@@ -188,6 +185,7 @@ For questions or feedback, please open an issue on GitHub.
 
 ---
 ⭐ If you find this project useful, please consider giving it a star!
+
 
 
 
