@@ -182,9 +182,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
+Name: Anh Vu Tran
+For questions or feedback, please open an issue on GitHub.
 
-Author: Anh Vu Tran.
-Email: steventran1290@gmail.com
 ---
 ⭐ If you find this project useful, please consider giving it a star!
+
 
